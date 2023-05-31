@@ -30,4 +30,5 @@ q is the size/width of the moving average window.
 3. Getting the stock price history data
 Thanks to Yahoo finance we can get the data for free. Use the following link to get the stock price history of Tata Motor: 
 
-https://towardsdatascience.com/time-series-forecasting-predicting-stock-prices-using-an-arima-model-2e3b3080bd70
+https://finance.yahoo.com/quote/TATAMOTORS.NS/history?period1=1527724800&period2=1685491200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+
